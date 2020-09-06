@@ -1,0 +1,89 @@
+[
+    {
+        "title": "Predmet prodaje",
+        "startOpen": false,
+        "keys": []
+    },
+    {
+        "title": "Vrsta predmeta",
+        "startOpen": true,
+        "keys": [
+            "Hiše",
+            "Stanovanja",
+            "Poslovni prostori",
+            "Vikendi",
+            "Počitniški objekti"
+        ]
+    },
+    {
+        "title": "Nadstropje",
+        "startOpen": false,
+        "keys": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "title": "Površina",
+        "startOpen": false,
+        "keys": [
+            "120",
+            "130",
+            "140",
+            "150"
+        ]
+    },
+    {
+        "title": "Regija",
+        "startOpen": true,
+        "keys": [
+            "osrednjeslovenska",
+            "podravska",
+            "koroška",
+            "pomurska",
+            "savinjska",
+            "zasavska",
+            "gorenjska",
+            "goriška",
+            "notranjo kraška",
+            "obalna",
+            "spodnjeposavska",
+            "dolenjska",
+            "Bela krajina"
+        ]
+    },
+    {
+        "title": "Kraj",
+        "startOpen": false,
+        "keys": [
+            "Ljubljana",
+            "Maribor",
+            "Celje",
+            "Kranj",
+            "Novo mesto",
+            "Metlika"
+        ]
+    },
+    {
+        "title": "Sodišče",
+        "startOpen": false,
+        "keys": []
+    },
+    {
+        "title": "Izhodna cena",
+        "startOpen": false,
+        "keys": []
+    },
+    {
+        "title": "Oblika prodaje",
+        "startOpen": false,
+        "keys": []
+    },
+    {
+        "title": "Status",
+        "startOpen": false,
+        "keys": []
+    }
+]

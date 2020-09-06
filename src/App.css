@@ -1,0 +1,17 @@
+
+:root {
+  --primary: rgb(84, 143, 253);
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: "Ubuntu" !important;
+}
+
+
+.app {
+  width: 100%;
+  min-height: 100vh;
+}

@@ -1,0 +1,26 @@
+{
+    "id": "N2342020-345",
+    "date": "10.03.2020 ob 11:28 uri",
+    "price": "325.000,00",
+    "currency": "€",
+    "sale_start_date": "30.04.2020 ob 10:00 uri",
+    "address": {
+        "street": "Dunajska 115",
+        "zip": "1000",
+        "city": "Ljubljana",
+        "country": "Slovenija"
+    },
+    "description": "...",
+    "property": {
+        "type": "Stanovanje",
+        "floor": "4. nadstropje",
+        "rooms": "3-sobno",
+        "surface": "68 m2",
+        "construction_year": 2000,
+        "images": [
+            "property2.jpg",
+            "property1.jpg",
+            "property3.jpg"
+        ]
+    }
+}
